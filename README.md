@@ -1,7 +1,7 @@
 # myHyperTube
-*Je commence la réalisation du projet web ['HyperTube'](./hypertube.fr.pdf) de **l'école 42** qui consiste à réalise un **YouTube-Like.**  
+***Je commence la réalisation du projet web ['HyperTube'](https://github.com/flourdau/myHyperTube/blob/main/hypertube.fr.pdf) de **l'école 42** qui consiste à réalise un **YouTube-Like.**  
 La partie Peer-to-peer sera bonus...  
-J'ai choisi le framework **Symfony** pour le Back-end & **Angular** pour le front-end.*
+J'ai choisi le framework **Symfony** ***
 ___
 
 ## Pré-Requis =>
